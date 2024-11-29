@@ -69,7 +69,7 @@ footer {
 }
 
 .about-image {
-    max-width: 25%;
+    max-width: 40%;
     height: auto; /* Mantém a proporção da imagem */
     display: block; /* Faz com que a imagem seja tratada como um bloco */
     margin-left: auto; /* Margem automática esquerda */
