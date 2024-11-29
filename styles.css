@@ -77,4 +77,15 @@ footer {
     margin-top: 1em; /* desce uma linha */
   }
 
-  
+
+/*garantindo a responsividade*/
+
+  @media (max-width: 768px) {
+    .about-image {
+        max-width: 80%;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+}
